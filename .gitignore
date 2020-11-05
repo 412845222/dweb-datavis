@@ -1,0 +1,5 @@
+/node_modules
+/public/luckysheet
+/vue.config.js
+/package-lock.json
+/dist
